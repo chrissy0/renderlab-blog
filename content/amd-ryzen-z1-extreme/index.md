@@ -58,7 +58,7 @@ Now we will compare the time it takes to render different sample scenes by GPU. 
   </tr>
   <tr>
     <td style="padding: 0 15px 0 0;">AMD Ryzen Z1 Extreme</td>
-    <td>1h 58 minutes</td>
+    <td>1h 28 minutes</td>
   </tr>
   <tr>
     <td style="padding: 0 15px 0 0;">GeForce GTX 1080</td>

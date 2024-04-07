@@ -58,7 +58,7 @@ Now we will compare the time it takes to render different sample scenes by GPU. 
   </tr>
   <tr>
     <td style="padding: 0 15px 0 0;">A6 Micro-6500T Quad-Core APU with RadeonR4</td>
-    <td>58h 42 minutes</td>
+    <td>44h 1 minutes</td>
   </tr>
   <tr>
     <td style="padding: 0 15px 0 0;">GeForce GTX 1080</td>

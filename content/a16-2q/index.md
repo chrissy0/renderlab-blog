@@ -58,7 +58,7 @@ Now we will compare the time it takes to render different sample scenes by GPU. 
   </tr>
   <tr>
     <td style="padding: 0 15px 0 0;">A16-2Q</td>
-    <td>2h 49 minutes</td>
+    <td>2h 6 minutes</td>
   </tr>
   <tr>
     <td style="padding: 0 15px 0 0;">GeForce GTX 1080</td>

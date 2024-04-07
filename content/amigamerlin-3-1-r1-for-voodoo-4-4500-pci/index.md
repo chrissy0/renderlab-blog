@@ -58,7 +58,7 @@ Now we will compare the time it takes to render different sample scenes by GPU. 
   </tr>
   <tr>
     <td style="padding: 0 15px 0 0;">AMIGAMERLIN 3.1-R1 For Voodoo 4 4500 PCI</td>
-    <td>4304h 46 minutes</td>
+    <td>3228h 35 minutes</td>
   </tr>
   <tr>
     <td style="padding: 0 15px 0 0;">GeForce GTX 1080</td>
